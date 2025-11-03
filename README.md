@@ -9,7 +9,6 @@ Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
 - 🌱 Actualmente estoy aprendiendo **HTML, CSS Y JavaScript**
 - 💬 Pregúntame sobre **Java, C#, C++, Algoritmos y Estructuras de Datos**
-- 📫 Cómo contactarme: **Isaacmlp714@gmail.com**
 
 
 ## Mis Habilidades
